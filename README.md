@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vipul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vipul-barjatya/)](https://www.linkedin.com/in/vipul-barjatya/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Vipul-green)](https://github.com/VipulBarjatya)
+[![Website Badge](https://img.shields.io/badge/WebSite-Vipul-green)](https://vipulbarjatya.github.io/portfolio-website/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Vipul-yellow)](https://stackoverflow.com/users/19402440/vipul-jain)
 
 Front End Devloper 
