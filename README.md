@@ -4,11 +4,11 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Vipul-green)](https://vipulbarjatya.github.io/portfolio-website/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Vipul-yellow)](https://stackoverflow.com/users/19402440/vipul-jain)
 
-Front End Devloper 
+Full Stack Web Developer 
 
 I'm a multi talented human having experience in diffrent range of disciplines.
 I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matter.
-One of my passions is Front End Engineering, and I enjoy creating beautiful web applications and performant products with delightful user experiences. I am currently an intern at Edureka Full Stack.
+One of my passions is Front End Engineering, and I enjoy creating beautiful web applications and performant products with delightful user experiences. I am currently a Full Stack Developer @Biz4.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/vipulbarjatya/count.svg)
